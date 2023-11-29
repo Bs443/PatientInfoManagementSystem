@@ -1,4 +1,4 @@
-# PatientManagementSystem
+# PatientInformationManagementSystem
 
 An individual project for Computer Programming, KMITL Software Engineering, Year 1, Semester 1
 
